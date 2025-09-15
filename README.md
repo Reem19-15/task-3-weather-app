@@ -31,3 +31,16 @@ It shows **current weather**, a **5-day forecast**, and allows **search by city*
    ```bash
    git clone https://github.com/your-username/react-weather-app.git
    cd react-weather-app
+2. Install dependencies:
+   ```bash
+   npm install
+3. create .env file and add your OpenWeather API key:
+   ```bash
+      VITE_OPENWEATHER_API_KEY=your_api_key_here
+
+4. start the sevelopment server:
+   ```bash
+   npm run dev
+
+
+
